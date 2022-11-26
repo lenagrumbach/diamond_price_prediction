@@ -49,18 +49,18 @@
 
   - Prediction with multiple linear regression model using variables 'carat', 'cut_No', 'color_No' and 'clarity_No', RMSE = 1227.0395614594963
 
-**Dropping the 18 lines didn't bring better results, so undoing it.**
+**Drop the 18 rows didn't bring better results, so undo it.**
 
   - Prediction with multiple linear regression model using variables 'carat', 'cut_No', 'color_No' and 'clarity_No', RMSE = 1226.9362366819055
 
 **Filter on carat size (model applied to all df_rick_diamonds):**
-
-**Carat greater than or equal to the median:**
+  
+  **Carat greater than or equal to the median:**
 
   - Prediction with multiple linear regression model using variables 'carat', 'cut_No', 'color_No', 'clarity_No', 'x', 'y' and 'z', RMSE = 1120.951108234914
 
   - Prediction with multiple linear regression model using variables 'carat', 'color_No', 'clarity_No', 'x', RMSE = 1119.051685118186
+  
+  **Carat greater than or equal to 90% of the median:**
 
-**Carat greater than or equal to 90% of the median:**
-
-**Best model so far:** Prediction with multiple linear regression model using variables 'carat', 'color_No', 'clarity_No', 'x', RMSE = 1115.4924534870559
+  **Best model so far:** Prediction with multiple linear regression model using variables 'carat', 'color_No', 'clarity_No', 'x', RMSE = 1115.4924534870559
