@@ -51,7 +51,7 @@
 
 **Dropping the 18 lines didn't bring better results, so undoing it.**
 
-  - Best model so far: Prediction with multiple linear regression model using variables 'carat', 'cut_No', 'color_No' and 'clarity_No', RMSE = 1226.9362366819055
+  - Prediction with multiple linear regression model using variables 'carat', 'cut_No', 'color_No' and 'clarity_No', RMSE = 1226.9362366819055
 
 **Filter on carat size (model applied to all df_rick_diamonds):**
 
