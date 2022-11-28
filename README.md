@@ -23,8 +23,9 @@
   
 ## **Conclusion**
 
-Prediction with Random Forests regression using variables 'carat', 'x', 'y', 'z', 'cut', 'color', 'clarity', RMSE = 549.6938621088119
+Prediction with Random Forests regression using variables 'carat', 'x', 'y', 'z', 'cut', 'color', 'clarity', 'table', RMSE = 543.5631396740744 dollars
 
+website to check price estimate, https://daft-oct2020-rick-diamonds.herokuapp.com
 
 ## Version Prediction documentation
 
@@ -72,4 +73,4 @@ Prediction with Random Forests regression using variables 'carat', 'x', 'y', 'z'
   
   Best model so far: Prediction with multiple Linear Regression model using variables 'carat', 'x', 'y', 'z', 'cut', 'color', 'clarity', RMSE = 1115.2815460356976
 
-  Prediction with **Random Forests Regression** using variables 'carat', 'x', 'y', 'z', 'cut', 'color', 'clarity', **RMSE = 549.6938621088119**
+  Prediction with **Random Forests Regression** using variables 'carat', 'x', 'y', 'z', 'cut', 'color', 'clarity', 'table', **RMSE = 543.5631396740744**
