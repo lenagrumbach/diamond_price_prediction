@@ -1,4 +1,4 @@
-## Project:  diamond_price_prediction
+## diamond_price_prediction
   Project status (Completed)
   
 ## Project Description
