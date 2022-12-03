@@ -2,12 +2,12 @@
   Project status (Completed)
   
 ## Project Description
-  In this mini-project I'm going to work with data to understand the characteristics of a diamond that are most likely to influence its price. I will apply the statistical concepts that I have learned so far to practice.
+  In this project I'm going to work with data to understand the characteristics of a diamond that are most likely to influence its price. I will apply the statistical concepts that I have learned so far to practice.
     
-## Project objective
+## Objective
   My goal is to create a prediction to estimate the price of 5000 diamonds achieving an RMSE less than 900.
   
-## Technologies 
+## Libraries 
   - Python
   - Pandas
   - Sklearn.linear_model
@@ -79,9 +79,11 @@ website to check price estimate, https://daft-oct2020-rick-diamonds.herokuapp.co
 
   Prediction with **Random Forests Regression** using variables 'carat', 'x', 'y', 'z', 'cut', 'color', 'clarity', 'table', **RMSE = 543.5631396740744**
   
-  If you have any questions or comments, please let me know!
-
-  https://www.linkedin.com/in/lenagrumbach/
-
-  lenagrumbach@gmail.com
+ 
+ 
+ 📫 If you have any questions or comments, please let me know!
+    
+    https://www.linkedin.com/in/lenagrumbach/
+    
+    lenagrumbach@gmail.com
   
